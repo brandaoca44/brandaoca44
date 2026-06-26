@@ -1,16 +1,53 @@
-## Hi there 👋
+# Olá! Eu sou o Caíque Brandão 👋
 
-<!--
-**brandaoca44/brandaoca44** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Desenvolvedor Full Stack em formação, apaixonado por tecnologia, arquitetura de software e desenvolvimento de soluções escaláveis e ambientes cloud.
 
-Here are some ideas to get you started:
+## 🚀 Tecnologias
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Front-end
+- React
+- Angular
+- TypeScript
+- JavaScript
+
+### Back-end
+- Node.js
+- NestJS
+- Python
+- Go
+
+### Banco de Dados
+- PostgreSQL
+- MySQL
+- Prisma ORM
+
+### Ferramentas
+- Docker
+- Git
+- GitHub
+- Swagger
+
+---
+
+## 💻 Projetos em destaque
+
+### Sentinel
+Sistema moderno de gerenciamento de incidentes utilizando NestJS + Angular.
+
+### Moment
+Rede social Full Stack desenvolvida com React, NestJS, PostgreSQL e Prisma.
+
+### InfraForge
+Monitoramento de serviços utilizando Go + Docker + PostgreSQL.
+
+### Offzy Deals
+Aplicação React para compartilhamento de ofertas.
+
+---
+
+## 📫 Contato
+
+- LinkedIn: www.linkedin.com/in/caique-brandão-47319537b
+- GitHub: https://github.com/brandaoca44
+
+Sempre aberto a oportunidades de estágio e desenvolvimento Full Stack.
