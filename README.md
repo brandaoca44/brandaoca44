@@ -40,8 +40,8 @@ Rede social Full Stack desenvolvida com React, NestJS, PostgreSQL e Prisma.
 ### InfraForge
 Monitoramento de serviços utilizando Go + Docker + PostgreSQL.
 
-### Offzy Deals
-Aplicação React para compartilhamento de ofertas.
+### SorteLab
+Aplicação frontend para consultas de jogos e ofertas de parceiros.
 
 ---
 
