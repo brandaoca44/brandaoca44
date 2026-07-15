@@ -1,6 +1,6 @@
 # Olá! Eu sou o Caíque Brandão 👋
 
-Desenvolvedor Full Stack em formação, apaixonado por tecnologia, arquitetura de software e desenvolvimento de soluções escaláveis e ambientes cloud.
+Eu sou um Profissional de Tecnologia com experiência prática no desenvolvimento de aplicações web, APIs REST e sistemas escaláveis, no momento estou em formação cursando Análise e Desenvolvimento de Sistemas, sou apaixonado por tecnologia, arquitetura de software e desenvolvimento de soluções escaláveis, ambientes cloud, cyber segurança e análise de dados e sistemas.
 
 ## 🚀 Tecnologias
 
