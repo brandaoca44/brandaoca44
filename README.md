@@ -15,6 +15,7 @@ Eu sou um Profissional de Tecnologia com experiência prática no desenvolviment
 - NestJS
 - Python
 - Go
+- C#
 
 ### Banco de Dados
 - PostgreSQL
