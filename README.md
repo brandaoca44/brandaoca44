@@ -41,8 +41,8 @@ Rede social Full Stack desenvolvida com React, NestJS, PostgreSQL e Prisma.
 ### InfraForge
 Monitoramento de serviços utilizando Go + Docker + PostgreSQL.
 
-### SorteLab
-Aplicação frontend para consultas de jogos e ofertas de parceiros.
+### LeParc Residential Finance
+Sistema de gestão financeira residencial
 
 ---
 
