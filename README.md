@@ -63,4 +63,3 @@ Acredito no aprendizado contínuo, na qualidade do código e na importância de 
 ## Contato
 
 **LinkedIn:** [www.linkedin.com/in/caique-brandão-47319537b](http://www.linkedin.com/in/caique-brandão-47319537b)
-**GitHub:** github.com/brandaoca44
