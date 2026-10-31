@@ -1,54 +1,66 @@
-# Olá! Eu sou o Caíque Brandão 👋
+# Caíque Brandão
 
-Eu sou um Profissional de Tecnologia com experiência prática no desenvolvimento de aplicações web, APIs REST e sistemas escaláveis, no momento estou em formação cursando Análise e Desenvolvimento de Sistemas, sou apaixonado por tecnologia, arquitetura de software e desenvolvimento de soluções escaláveis, ambientes cloud, cyber segurança e análise de dados e sistemas.
+### Desenvolvedor Full Stack | Engenharia de Software
 
-## 🚀 Tecnologias
+Sou desenvolvedor e estudante de **Análise e Desenvolvimento de Sistemas**, apaixonado por tecnologia e pela construção de soluções que resolvem problemas reais.
 
-### Front-end
-- React
-- Angular
-- TypeScript
-- JavaScript
+Tenho experiência prática no desenvolvimento de aplicações web, APIs REST e sistemas Full Stack. Gosto de explorar diferentes tecnologias, compreender como os sistemas funcionam e aplicar boas práticas de engenharia de software.
 
-### Back-end
-- Node.js
-- NestJS
-- Python
-- Go
-- C#
+Meus principais interesses envolvem **arquitetura de software, desenvolvimento de sistemas, cloud computing, DevOps, cibersegurança e análise de dados**.
 
-### Banco de Dados
-- PostgreSQL
-- MySQL
-- Prisma ORM
-
-### Ferramentas
-- Docker
-- Git
-- GitHub
-- Swagger
+Este espaço reúne meus projetos, experimentos e parte da minha evolução como desenvolvedor.
 
 ---
 
-## 💻 Projetos em destaque
+## Tecnologias
 
-### Sentinel
-Sistema moderno de gerenciamento de incidentes utilizando NestJS + Angular.
+**Linguagens**
+`TypeScript` `JavaScript` `Python` `C#` `Go`
 
-### Moment
-Rede social Full Stack desenvolvida com React, NestJS, PostgreSQL e Prisma.
+**Front-end**
+`React` `Next.js` `Angular`
 
-### InfraForge
-Monitoramento de serviços utilizando Go + Docker + PostgreSQL.
+**Back-end**
+`Node.js` `NestJS` `FastAPI` `.NET`
 
-### LeParc Residential Finance
-Sistema de gestão financeira residencial
+**Banco de Dados**
+`PostgreSQL` `MySQL` `SQLite` `Redis` `Prisma ORM`
+
+**Ferramentas e Infraestrutura**
+`Docker` `Linux` `Git` `GitHub` `Swagger/OpenAPI`
 
 ---
 
-## 📫 Contato
+## Projetos
 
-- LinkedIn: www.linkedin.com/in/caique-brandão-47319537b
-- GitHub: https://github.com/brandaoca44
+Algumas das soluções que venho desenvolvendo:
 
-Sempre aberto a oportunidades de estágio e desenvolvimento Full Stack.
+**Moment**
+Uma plataforma social focada em conexões e experiências mais autênticas.
+
+**Sentinel**
+Sistema de gerenciamento de incidentes, com rastreamento de ocorrências e histórico de atividades.
+
+**InfraForge**
+Monitoramento de serviços e infraestrutura utilizando Go.
+
+**SD Financeiro ERP**
+Desenvolvimento de uma arquitetura modular para gestão empresarial.
+
+**Rescisão Fácil**
+Aplicação voltada à simplificação de cálculos de rescisão trabalhista.
+
+---
+
+## Interesses
+
+Além do desenvolvimento Full Stack, busco aprofundar meus conhecimentos em arquitetura de sistemas, infraestrutura, segurança de aplicações e engenharia de software.
+
+Acredito no aprendizado contínuo, na qualidade do código e na importância de construir soluções simples, seguras e sustentáveis.
+
+---
+
+## Contato
+
+**LinkedIn:** [www.linkedin.com/in/caique-brandão-47319537b](http://www.linkedin.com/in/caique-brandão-47319537b)
+**GitHub:** github.com/brandaoca44
